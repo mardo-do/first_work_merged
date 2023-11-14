@@ -168,8 +168,8 @@ def function_first(path_json, path_csv):
 
 
 
-# calling of the function
-function_first("file2.json", "/home/negre/negre_python/nuls/Tp")
+
+
 
 
 
