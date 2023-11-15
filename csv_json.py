@@ -37,5 +37,3 @@ except:
     print("une erreur s'est produite quelque ")        
                     
         
-
-
